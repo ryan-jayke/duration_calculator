@@ -1,11 +1,11 @@
 # duration_calculator
-GUI to estimate time duration
-
-Utilized:
--re (regular expressions library)
--tkinter (GUI library)
--pillow (convert PowerPoint image export to .ico for application icon)
--pyinstaller (create executable from python script)
-
-command prompt to run pyinstaller:
+GUI to estimate time duration<br>
+<br>
+Utilized:<br>
+-re (regular expressions library)<br>
+-tkinter (GUI library)<br>
+-pillow (convert PowerPoint image export to .ico for application icon)<br>
+-pyinstaller (create executable from python script)<br>
+<br>
+command prompt to run pyinstaller:<br>
 cd C:\Users\[project folder] && pyinstaller --icon=calc_icon.ico --onefile --noconsole calc.py
