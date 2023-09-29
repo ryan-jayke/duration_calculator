@@ -8,4 +8,4 @@ Utilized:<br>
 -pyinstaller (create executable from python script)<br>
 <br>
 command prompt to run pyinstaller:<br>
-cd C:\Users\[project folder] && pyinstaller --icon=calc_icon.ico --onefile --noconsole calc.py
+cd C:\[project folder] && pyinstaller --icon=calc_icon.ico --onefile --noconsole calc.py
